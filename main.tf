@@ -4,11 +4,11 @@ provider "aws" {
   secret_key = "jSnn4mv4CqpddLxt97zE+ggsUh2hnvXDmO2PqNim"
 }
 
-module "jhooq-webserver-1" {
+module "webserver-1" {
   source = ".//module-1"
 }
 
 
-module "jhooq-webserver-2" {
+module "webserver-2" {
   source = ".//module-2"
 }
