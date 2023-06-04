@@ -1,1 +1,1 @@
-{"Modules":[{"Key":"jhooq-webserver-1","Source":"./module-1","Dir":"module-1"},{"Key":"jhooq-webserver-2","Source":"./module-2","Dir":"module-2"},{"Key":"","Source":"","Dir":"."}]}
+{"Modules":[{"Key":"jhooq-webserver-1","Source":"./module-1","Dir":"module-1"},{"Key":"jhooq-webserver-2","Source":"./module-2","Dir":"module-2"},{"Key":"","Source":"","Dir":"."},{"Key":"webserver-1","Source":"./module-1","Dir":"module-1"},{"Key":"webserver-2","Source":"./module-2","Dir":"module-2"}]}
